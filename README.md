@@ -1,2 +1,2 @@
-# Alumno23
-Este es un repo de ejemplo
+# Alumno
+Este es un repositorio de ejemplo
